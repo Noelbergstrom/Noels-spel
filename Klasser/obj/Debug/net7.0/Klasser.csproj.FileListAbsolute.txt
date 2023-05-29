@@ -1,0 +1,15 @@
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.csproj.AssemblyReference.cache
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.AssemblyInfoInputs.cache
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.AssemblyInfo.cs
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\nobe04001\Desktop\c#\Klasser\bin\Debug\net7.0\Klasser.exe
+C:\Users\nobe04001\Desktop\c#\Klasser\bin\Debug\net7.0\Klasser.deps.json
+C:\Users\nobe04001\Desktop\c#\Klasser\bin\Debug\net7.0\Klasser.runtimeconfig.json
+C:\Users\nobe04001\Desktop\c#\Klasser\bin\Debug\net7.0\Klasser.dll
+C:\Users\nobe04001\Desktop\c#\Klasser\bin\Debug\net7.0\Klasser.pdb
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.dll
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\refint\Klasser.dll
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.pdb
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\Klasser.genruntimeconfig.cache
+C:\Users\nobe04001\Desktop\c#\Klasser\obj\Debug\net7.0\ref\Klasser.dll
